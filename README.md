@@ -1,8 +1,8 @@
 # DUArcade 🎮🛒
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub issues](https://img.shields.io/github/issues/YourUser/duarcade)
-![GitHub stars](https://img.shields.io/github/stars/YourUser/duarcade?style=social)
+![GitHub license](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
+![GitHub issues](https://img.shields.io/github/issues/talhabangyal/duarcade)
+![GitHub stars](https://img.shields.io/github/stars/talhabangyal/duarcade?style=social)
 
 > DUArcade is a modern gaming e-commerce platform where users can buy, sell, and trade retro and indie games.
 
@@ -29,12 +29,13 @@
 - Responsive design (mobile & desktop)
 
 ## Tech Stack
-- **Frontend:** React.js, Redux, Tailwind CSS  
-- **Backend:** Node.js, Express  
-- **Database:** PostgreSQL, Redis  
-- **Authentication:** JWT, OAuth2  
-- **Payments:** Stripe API  
-- **Deployment:** Docker, AWS (EC2, S3, RDS)
+- **Frontend:** HTML, CSS, JS  
+- **Backend:** PHP
+- **Database:** My SQL 
+<!--- **Authentication:** JWT, OAuth2  
+//- **Payments:** Stripe API  
+//- **Deployment:** Docker, AWS (EC2, S3, RDS)
+-->
 
 ## Installation
 
@@ -48,3 +49,24 @@
 | Home Page           | Product Page        | Cart & Checkout    |
 |---------------------|---------------------|--------------------|
 | ![home](./screens/home.png) | ![product](./screens/product.png) | ![cart](./screens/cart.png) |
+
+## Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
+1. Fork the repo  
+2. Create your feature branch (`git checkout -b feature/AwesomeFeature`)  
+3. Commit your changes (`git commit -m 'Add some feature'`)  
+4. Push to the branch (`git push origin feature/AwesomeFeature`)  
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).  
+See the [LICENSE](./LICENSE) file for the full license text.
+
+## Contact
+
+Talha Abdullah Bangyal – [@your_twitter](https://twitter.com/your_twitter)
+Muhammad Hanzala - []
+Project Link: https://github.com/talhabangyal/duarcade
