@@ -18,7 +18,7 @@
 - [Contact](#contact)
 
 ## Demo
-![DUArcade Demo](https://link-to-your-gif-or-screenshot.gif)
+![DUArcade Demo](assets/demo.gif)
 
 ## Features
 - Browse games by genre, platform, and price  
